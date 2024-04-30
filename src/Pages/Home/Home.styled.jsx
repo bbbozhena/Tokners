@@ -7,21 +7,21 @@ export const HomeMain = styled.div`
   .vectorthree {
     right: -0%;
     z-index: -2;
-    width: 500px;
+    width: 700px;
   }
   .vectortwo {
     right: 0%;
     z-index: -3;
-    width: 700px;
+    width: 900px;
   }
   .vectorone {
     right: 0%;
     z-index: -4;
-    width: 800px;
+    width: 1000px;
   }
   .vectorfour {
     right: 0%;
     z-index: -5;
-    width: 900px;
+    width: 1100px;
   }
 `;

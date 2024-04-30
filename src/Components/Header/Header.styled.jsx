@@ -34,11 +34,13 @@ export const HeaderInfo = styled.div`
     flex-wrap: wrap;
   }
   p {
-    padding-right: 15px;
+    padding-right: 30px;
     text-decoration: underline;
     font-size: 14px;
     font-weight: bold;
     text-transform: uppercase;
+    color: white;
+    cursor: pointer;
   }
 `;
 export const HeaderSign = styled.div`
@@ -49,6 +51,8 @@ export const HeaderSign = styled.div`
     font-size: 14px;
     font-weight: bold;
     text-transform: uppercase;
+    color: white;
+    cursor: pointer;
   }
 `;
 export const HeaderSignButton = styled.button`
@@ -58,4 +62,6 @@ export const HeaderSignButton = styled.button`
   font-weight: bold;
   text-transform: uppercase;
   padding: 15px 40px;
+  background-color: white;
+  cursor: pointer;
 `;
